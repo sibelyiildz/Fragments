@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#CDDC39"
+    android:background="#9C6BC0"
     android:orientation="vertical"
     tools:context=".HeaderFragment">
 
@@ -12,8 +12,8 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_gravity="center"
-        android:text="Header Fragment"
-        android:textColor="@color/colorPrimary"
+        android:text="Footer Fragment"
+        android:textColor="#0C0A0A"
         android:textSize="36sp" />
 
 </LinearLayout>
